@@ -1,7 +1,7 @@
-# hutan-git-101
+# git-101
 ## This is The First Project in git  Moodle Course.
 
-* branch: The Branch in Github Gives Exactly the mMeaning of Its Name. The Branch Allows us to Work for Various Goals on a Project in Parallel and Isolate, Like Bug Fix or Experiment with New Ideas.
+* branch: The Branch in Github Gives Exactly the Meaning of Its Name. The Branch Allows Us to Work for Various Goals on a Project in Parallel and Isolate, Like Bug Fix or Experiment with New Ideas.
 * checkout: Checkout Allows us Switch in Between Branches or Allows to Rollback to Specefic Commits Point.
 * commit: is Like Take a Snapshots From Current Stage and then cleaning Stage State.
 * fast-forward: It is a kind of Merge Branche.For Example If We Create a Branch From Master and Enter Some Commits and as the Same Time No commiting in Master Branch,then Merge Mentioned Branch,this Merging Called Fast-Forward.

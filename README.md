@@ -16,8 +16,8 @@
 * **push:** Allows Us To  Upload Local Repository Files to The Remote Repository.
 * **repository:** Where We Can Keep َAll Versions of Files Project.
 * **stash:** Generally We Have Three States in Git. Unstaged (Or Untracked),Staged and Commit.Stash is Both Uncommitted States.
-| :------------ |:---------------:|
-| shabnam branch |
+
+|shabnam  Words | Explanation  |
 | :------------ |:---------------:|
 | clone | We use git clone command to point to an existing repository and create a clone or copy of the target repository. |
 | rebase | Rebis is a way to integrate changes from one branch to another, compressing all the changes into a single patch and then merging that patch into the branch, erasing the change history. | 
